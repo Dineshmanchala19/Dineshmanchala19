@@ -7,7 +7,7 @@
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DineshKumarManchala.DineshKumarManchala)
-[![Github](https://img.shields.io/github/followers/DineshKumarManchala?label=Follow&style=social)](https://github.com/DineshKumarManchala)
+[![Github](https://img.shields.io/github/followers/DineshKumarManchala?label=Follow&style=social)](https://github.com/Dineshmanchala19)
 
 <div size='20px'> Hi! My name is Dinesh Kumar Manchala. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on a **Geospatial Analysis Tool** for NDVI change detection using satellite imagery.
-- 🌱 I’m currently learning **AI**, **Data Science**, and **Geospatial Analysis**.
+- 🌱 I’m currently learning **AI**, **Machine learning**, and **Geospatial Analysis**.
 - 👯 I’m looking to collaborate on **Web Development**, **Machine learning** projects, and ** GIS tools**.
 - 💬 Talk to me about **Python**, **JavaScript**, **GIS**, and **Satellite Imagery**.
 
