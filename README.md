@@ -1,5 +1,6 @@
 <br>
 🌟 About Me
+<br>
 Hello! I'm Dinesh Kumar Manchala, a technology enthusiast currently pursuing a Bachelor of Technology in Information Technology. I’m passionate about software development, geospatial technologies, and exploring advancements in AI and web development.
 
 <br>
