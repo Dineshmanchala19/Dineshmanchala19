@@ -1,30 +1,57 @@
-<img src="https://www.google.com/search?q=technical+gifs&sca_esv=a07f0383584960a3&rlz=1C1CHBF_enIN1120IN1120&udm=2&biw=2217&bih=1083&sxsrf=ADLYWIIwGR2r5XdMK_Em9sLEGm2-aFRJJg%3A1731334783230&ei=fxIyZ4fQDfTi2roP9YmfyA4&ved=0ahUKEwjHi_fVvNSJAxV0sVYBHfXEB-kQ4dUDCBA&uact=5&oq=technical+gifs&gs_lp=EgNpbWciDnRlY2huaWNhbCBnaWZzMgUQABiABDIGEAAYCBgeSJ0KUMUEWNkIcAF4AJABAJgBiwGgAY8DqgEDMC4zuAEDyAEA-AEBmAIEoAKbA8ICBBAAGB7CAgcQABiABBgKwgIGEAAYChgewgIGEAAYHhgPwgIGEAAYBRgemAMAiAYBkgcDMS4zoAfsCg&sclient=img#vhid=7X0qfC1a39o0gM&vssid=mosaic" alt="👋 Hi there! I'm Dinesh Kumar Manchala" title="👋 Hi there! I'm Dinesh Kumar Manchala"/>
+<div align="center">
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
 
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-:book: About Me
-🖥 Software developer with a passion for web development, GIS, and AI.
-🎓 Pursuing a Bachelor of Technology in Information Technology at Velagapudi Ramakrishna Siddhartha Engineering College.
-💼 Experienced with tools like Google Earth Engine, Overleaf, and VS Code.
-🏆 National-level volleyball participant and 98.4% achiever in +2 education.
-🌐 You can find my projects on GitHub, focusing on Flask web applications and geospatial data analysis.
-⬆ What I'm Up To
-🔨 Currently Working On: Building a Flask-based web application for geospatial analysis and environmental monitoring using Google Earth Engine and satellite imagery data.
-🌱 Learning: Advanced concepts in Flask, AI-driven data visualization, and NDVI change detection.
-🤞 Hoping to Achieve:
-Contribute to impactful open-source geospatial projects.
-Integrate advanced AI algorithms with GIS data for better environmental monitoring.
-🔔 GitHub Stats
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=DineshKumarManchala.DineshKumarManchala)
+[![Github](https://img.shields.io/github/followers/DineshKumarManchala?label=Follow&style=social)](https://github.com/DineshKumarManchala)
 
-📫 How to Reach Me:
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40em" align="center" alt="LinkedIn" title="Follow on LinkedIn"/> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40em" align="center" alt="Email" title="Email Me"/>
+<div size='20px'> Hi! My name is Dinesh Kumar Manchala. Thank You for taking the time to view my GitHub Profile :smile:
+</div>
 
-💻 Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine"/> </p>
-🛠 Tools & Platforms
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf"/> </p>
-🚀 Featured Projects
-🌍 Geospatial Analysis Tool
-A tool for analyzing NDVI changes using Google Earth Engine, perfect for environmental monitoring. Built with Python and geospatial technologies.
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-📊 Web Development with Flask
-A Flask-based web application showcasing my skills in backend development. Features user authentication, project management, and interactive dashboard
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on a **Geospatial Analysis Tool** for NDVI change detection using satellite imagery.
+- 🌱 I’m currently learning **AI**, **Data Science**, and **Geospatial Analysis**.
+- 👯 I’m looking to collaborate on **Web Development**, **Data Science** projects, and **AI-powered GIS tools**.
+- 💬 Talk to me about **Python**, **JavaScript**, **GIS**, and **Satellite Imagery**.
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/dinesh-kumar-manchala'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://medium.com/@dineshkumarman'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+<a href = 'http://dineshkumarman.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+<a href = 'https://www.github.com/DineshKumarManchala'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+<br>
+<br>
+  <br>
+
+ ![Dinesh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=DineshKumarManchala&theme=redical&hide_border=true&area=true)
+| ![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=DineshKumarManchala&show_icons=true&theme=radical)             | ![Dinesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DineshKumarManchala&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshKumarManchala&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DineshKumarManchala&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+-------
