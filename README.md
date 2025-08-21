@@ -6,8 +6,11 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=DineshKumarManchala.DineshKumarManchala)
 [![Github](https://img.shields.io/github/followers/DineshKumarManchala?label=Follow&style=social)](https://github.com/Dineshmanchala19)
+[![React](https://img.shields.io/badge/Frontend-React-blue)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Framework-Express-lightgrey)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)](https://www.mongodb.com/)
 
 <div size='20px'> Hi! My name is Dinesh Kumar Manchala. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
