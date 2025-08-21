@@ -19,10 +19,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a **Geospatial Analysis Tool** for NDVI change detection using satellite imagery.
-- 🌱 I’m currently learning **AI**, **Machine learning**, and **Geospatial Analysis**.
-- 👯 I’m looking to collaborate on **Web Development**, **Machine learning** projects, and ** GIS tools**.
-- 💬 Talk to me about **Python**, **JavaScript**, **GIS**, and **Satellite Imagery**.
+- 🚀 Passionate about transforming ideas into full-stack solutions.  
+- 🌟 Currently exploring **modern web development**, cloud integration, and scalable apps.  
+- 🧩 I love building **creative, user-focused projects** that solve real problems.  
+- 💬 Always curious about **emerging technologies** and open to innovative collaborations.  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/DineshKumarManchala?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
