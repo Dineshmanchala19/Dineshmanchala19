@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-[![Github]](https://github.com/Dineshmanchala19)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Dineshmanchala19)
 [![React](https://img.shields.io/badge/React-blue)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-green)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Framework-Express-lightgrey)](https://expressjs.com/)
